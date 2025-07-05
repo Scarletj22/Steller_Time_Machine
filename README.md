@@ -4,16 +4,13 @@ A Space Travel website built with HTML, CSS, and JavaScript
 - I've added new features to the original project as well as improve its UI
 - This website is responsive
 - See the [origional challenge](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3) on [Frontend Mentor](https://www.frontendmentor.io/home)
-
+LIVE WEBSITE :   (https://831c-122-162-145-138.ngrok-free.app)
 ### Home page demos
 <p align="center">
   <td><img src="./assets/img/demo/home/home-large.png" width=500></td>
 </p>
 <table>
-  <tr>
-    <td><img src="./assets/img/demo/home/home-medium.png" width=500></td>
-    <td><img src="./assets/img/demo/home/home-small.png" width=500></td>
-  </tr>
+
  </table>
 
 ### Destination page demos
@@ -21,10 +18,7 @@ A Space Travel website built with HTML, CSS, and JavaScript
   <td><img src="./assets/img/demo/destination/destination-large.png" width=500></td>
 </p>
 <table>
-  <tr>
-    <td><img src="./assets/img/demo/destination/destination-medium.png" width=500></td>
-    <td><img src="./assets/img/demo/destination/destination-small.png" width=500></td>
-  </tr>
+
  </table>
 
 ### Crew page demos
@@ -32,10 +26,6 @@ A Space Travel website built with HTML, CSS, and JavaScript
   <td><img src="./assets/img/demo/crew/crew-large.png" width=500></td>
 </p>
 <table>
-  <tr>
-    <td><img src="./assets/img/demo/crew/crew-medium.png" width=500></td>
-    <td><img src="./assets/img/demo/crew/crew-small.png" width=500></td>
-  </tr>
  </table>
 
 ### Technology page demos
@@ -43,10 +33,6 @@ A Space Travel website built with HTML, CSS, and JavaScript
   <td><img src="./assets/img/demo/technology/technology-large.png" width=500></td>
 </p>
 <table>
-  <tr>
-    <td><img src="./assets/img/demo/technology/technology-medium.png" width=500></td>
-    <td><img src="./assets/img/demo/technology/technology-small.png" width=500></td>
-  </tr>
  </table>
 
 ## Some topics covered in this project
